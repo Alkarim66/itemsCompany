@@ -1,0 +1,29 @@
+                                               # Agende #
+
+1-there are two kind of goods, local goods and imported goods that customer shoud select during shoping.
+
+2-after customers selecting one of the branches, now customer must make his choise about one of the items.
+
+3-then customer has been given a new chance for selecting the kind of goods again,then customer will be able again for continuing shoping till they select one of choices either buy or exit. 
+
+4-if the customer at the begining did select Exit before he buy or select anything, so he will receive a message of thanks without showing bill of purchaes.
+
+5-if the customer at the begining did select Buy before he shoping or select anything, so he will receive a message of thanks without showing bill of purchaes.
+
+6-if the customer make his choice of buying what did he add in his baskt, then he will be asked either with credit card paying or cash paying.
+
+7-if the customers choice is by credit card paying, then he will be asked about the right passowrd to be enterd,and if its not correct then he will have a new chance for that.
+Note its supposed (correct password:1234).
+
+8-after entering the right password, then customers will receive a bill of purchase that showing these items names with its cost and  in addition to its total summation and total sumation of the taxes.
+
+9-if the customers choice was be selecting Exit, so he will have a chance to confirme his selected choice if its was by mistake or its not, so if its an Erorr so customer can keep continuing by shoping by typing (n) and if its not then customer can select yes by typing (y) to Exit with out showing bill of purchaes.
+
+10-the Tax of the local items except medical food and books its about (0.10 $) and if its imported items then it will be (0.15 $). for these items choco , books and medical care so its with free Taxs as they are from local goods and they will be only with little cost of Tax (0.05) as they are imported goods.
+
+@@ i did focuse on how to make my project to be dynamic project not static, so it will be able to be extended as adding new items with new conditions also with new Taxes.
+
+
+
+
+ 
